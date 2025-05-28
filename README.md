@@ -16,7 +16,7 @@ For more information you can also use @barry in slack and ask Barry questions ab
 - [x] Forking a Repository
 - [x] Cloning a Repository
 - [x] Making Changes to the Repository
-- [xgit ] Committing Changes Locally
+- [x] Committing Changes Locally
 - [ ] Moving Changes to GitHub
 - [ ] Standard Work Flow
 

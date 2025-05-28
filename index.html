@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        let a = true;
+        let b = false;
+        let c = true;
+
+        console.log(a && b || c && a);
+        let step1 = b && c;
+        console.log(step1);
+
+        let final = a || step1;
+        console.log(final)
+
+        console.log(c && b);
+
+        console.log((a && c) || b);
+
+        let ohSnap = (a || b && c);
+        console.log(ohSnap);
+
+        let age = 17;
+        let hasID = true;
+
+        console.log(age >= 18 && hasID);
+        console.log(age >= 18 || hasID);
+
+
+
+    </script>
+</body>
+</html>
