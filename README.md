@@ -15,7 +15,7 @@ For more information you can also use @barry in slack and ask Barry questions ab
 - [x] Setting up your Authentication
 - [x] Forking a Repository
 - [x] Cloning a Repository
-- [ ] Making Changes to the Repository
+- [x] Making Changes to the Repository
 - [ ] Committing Changes Locally
 - [ ] Moving Changes to GitHub
 - [ ] Standard Work Flow
